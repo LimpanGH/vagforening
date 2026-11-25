@@ -1,0 +1,8 @@
+# Privata filer: kontaktlista, offerter, lathund, guide och anteckningar
+privat/
+
+# Exporter av WordPress-sajten (innehåller e-post och formulärsvar)
+backups-av-sajten/*.xml
+
+# macOS
+.DS_Store
